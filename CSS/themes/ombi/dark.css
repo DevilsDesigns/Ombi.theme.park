@@ -16,9 +16,9 @@
 :root {
   --main-bg-color: radial-gradient(circle, #3a3a3a, #2d2d2d, #202020, #141414, #000000) center center/cover no-repeat fixed;
   --modal-bg-color: radial-gradient(circle , #3a3a3a, #2d2d2d, #202020, #141414, #000000) center center/cover no-repeat fixed;
-  --request-button: #c1c1c1;
+  --request-button: #7b0000;
   --request-button-hover: rgba(255, 255, 255, 0.25);
-  --loading-bar: #df691a; 
+  --loading-bar: #7b0000; 
   --accent-color: #c1c1c1;
   --label-color: rgba(255, 255, 255, 0.25);
 }
