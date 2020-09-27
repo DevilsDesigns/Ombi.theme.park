@@ -189,13 +189,13 @@ table.table>thead>tr>th.active {
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.6);
 }
 .dropdown-menu>li>a:hover {
-    background-color: rgba(255, 255, 255, 0.08);
+    background-color: rgba(211, 13, 13, 0.79);
 }
 .navbar-nav>li>.dropdown-menu {
     width: 163.5px;
 }
 .dropdown-menu>.active>a, .dropdown-menu>.active>a:focus, .dropdown-menu>.active>a:hover {
-    background-color: rgba(0, 0, 0, 0.45);
+    background-color: rgba(211, 13, 13, 0.79);
 }
 
 /* Settings */
@@ -222,7 +222,7 @@ hr {
     color: #ffffff;
 }
 .btn-link:focus, .btn-link:hover {
-    color: #ddd;
+    color: #c80000;
 }
 .input-group-addon .btn-group .btn {
     outline: none !important;
@@ -233,7 +233,7 @@ hr {
     width: auto !important;
 }
 .btn-group-vertical>.btn.active, .btn-group-vertical>.btn:active, .btn-group-vertical>.btn:focus, .btn-group-vertical>.btn:hover, .btn-group>.btn.active, .btn-group>.btn:active, .btn-group>.btn:focus, .btn-group>.btn:hover {
-    background: rgba(255, 255, 255, 0.35) !important;
+    background: rgba(211, 13, 13, 0.79) !important;
 }
 
 .input-group-btn:last-child>.btn, .input-group-btn:last-child>.btn-group {
@@ -262,7 +262,7 @@ i.fa.fa-minus, i.fa.fa-plus {
     padding: 5px 10px;
 }
 .btn-success-outline.active, .btn-success-outline.focus, .btn-success-outline:active, .btn-success-outline:focus, .btn-success-outline:hover, .open>.btn-success-outline.dropdown-toggle {
-    color: #fff!important;
+    color: #c80000!important;
     background-color: rgba(92, 184, 92, .75)!important;
     border-color: transparent!important;
 }
